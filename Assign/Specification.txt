@@ -1,0 +1,53 @@
+(1) Check if on login page (call the test once the page is loaded)
+
+(2) Type the string "company" to the username field
+
+(3) Focus the password field
+		
+(4) Type the string "company" to the password field (string does not appear in XML)
+		
+(5) Focus the username field
+		
+(6) Empty out the username field
+		
+(7) Press the login button and ensure still on login page
+		
+(8) Re-type "company" to the username field
+		
+(9) Press the login button and ensure now on summary page with $100 (you should wait for the summary page to load completely)
+		
+(10) Press the make payment button and ensure now on payment page
+		
+(11) Type the string "612-555-0112" to the phone field
+		
+(12) Type the string "Alice" to the name text field
+		
+(13) Drag the amount slider to $35 (Use Action for more precise functions)
+		
+(14) Press the send payment button and ensure still on payment page
+		
+(15) Type the string "United States" to the country text field
+		
+(16) Press the cancel button and ensure now on summary page with $100
+		
+(17) Press the make payment button and ensure now on payment page with default values
+		
+(18) Type the string "612-555-0355" to the phone field
+				
+(19) Type the string "Bob" to the name text field
+		
+(20) Drag the amount slider to $55
+		
+(21) Press the country button
+		
+(22) Select France from the country list (hint: use the down arrow to the 13th element on the list)
+		
+(23) Press the send payment button and ensure alert appears
+		
+(24) Dismiss the alert and ensure now on payment page
+		
+(25) Press the send payment button and ensure alert appears again
+		
+(26) Accept the alert and ensure now on summary page
+		
+(27) Press the logout button and ensure now on login page
