@@ -36,7 +36,7 @@ public class Main {
         // Set capabilities for Appium
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
-        capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "10");
+        capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "5.1.1");
         capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "emulator-5554");
         // Automatic timeout of application if no commands are given through Appium
         capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, "60000"); // Seconds
