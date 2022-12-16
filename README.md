@@ -20,7 +20,7 @@ In this module, we will learn a variety of testing techniques that can be used i
 Module 3: Non-functional Web Testing
 The goal of this module is to introduce non-functional testing, in particular, security testing concepts , application of fuzz testing and performance testing with JMeter.
 
-# **[WEEK 4]** 
+# **[WEEK 4]**  
 Module 4: Mobile Testing
 Overview of differences between testing for web versus mobile
 Opening/closing appVariety of actions that can we do (shake, squeeze, gestures) Couple of intro videos (diffs, tools, setting the environment up) 10 minutes walking through building a first set of tests Setting up on emulator/device
