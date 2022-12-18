@@ -23,4 +23,4 @@ The goal of this module is to introduce non-functional testing, in particular, s
 # **[WEEK 4]**   
 Module 4: Mobile Testing
 Overview of differences between testing for web versus mobile 
-Opening/closing appVariety of actions that can we do (shake, squeeze, gestures) Couple of intro videos (diffs, tools, setting the environment up) 10 minutes walking through building a first set of tests Setting up on emulator/device  
+Opening/closing appVariety of actions that can we do (shake, squeeze, gestures) Couple of intro videos (diffs, tools, setting the environment up) 10 minutes walking through building a first set of tests Setting up on emulator/device
